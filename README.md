@@ -2,4 +2,4 @@
 l
 devick kasbalakan
 
-baru
+lama
